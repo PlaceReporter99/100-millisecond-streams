@@ -4,4 +4,4 @@ repos:
     - id: always_pass
       name: Pass tests
       entry: echo
-      language: bash
+      language: python
