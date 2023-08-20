@@ -1,7 +1,7 @@
 repos:
   - repo: local
     hooks:
-    - id: random
-      name: bytes of random data.
-      entry: python3 write_data.py
-      language: python
+    - id: always_pass
+      name: Pass tests
+      entry: echo
+      language: bash
