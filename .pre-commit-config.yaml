@@ -4,4 +4,4 @@ repos:
     - id: random
       name: bytes of random data.
       entry: python3 write_data.py
-      language: python3
+      language: python
