@@ -1,5 +1,6 @@
 name: Add text file with random byte data
 on:
+  workflow_dispatch
   schedule:
     - cron: '4/5 * * * *'
 
